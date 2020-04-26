@@ -7,7 +7,7 @@ To Run app in Development:
 3. Go to your repo and install the dependencies by running:
 		- "composer install"
 		- "npm install"
-4. Create an env file by running the command "make .env file"
+4. Rename ".env.example" to ".env"
 5. Run the command to generate a key "php artisan key:generate"
 6. "npm run dev" to compile the javascript and css files or
 	"npm run watch" to compile javascript and css files for every modification done

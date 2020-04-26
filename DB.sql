@@ -18,6 +18,9 @@
 --
 -- Table structure for table `education`
 --
+DROP SCHEME IF EXISTS personal;
+CREATE SCHEMA personal;
+USER personal;
 
 DROP TABLE IF EXISTS `education`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;

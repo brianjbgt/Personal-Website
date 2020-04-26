@@ -1,0 +1,11 @@
+.notification-box{
+    
+    position:fixed !important; 
+    bottom: 10% !important; 
+    right:5% !important;
+}
+
+.notification-box:hover{
+    cursor: pointer;
+    opacity: 0.5
+}

@@ -1,0 +1,18 @@
+.fa-minus-circle {
+    color: 
+    #e74c3c;
+}
+.fa-plus-circle {
+    color: 
+    #27c24c;
+}
+
+.fa, .fab, .fal, .far, .fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}

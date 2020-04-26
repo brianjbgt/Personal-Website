@@ -1,5 +1,5 @@
 ﻿node_modules
 .env
-public/js
+public/js/app.js
 public/css/app.css
 vendor
